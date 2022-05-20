@@ -227,6 +227,7 @@ main {
 .card-single a:hover {
     background: rgba(212, 113, 212, 0.2);
     color: var(--color-dark);
+    height: 100%;
 }
 
 .recent-grid {
